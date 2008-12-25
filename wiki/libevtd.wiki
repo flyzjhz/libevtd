@@ -1,14 +1,15 @@
-#summary One-sentence summary of this page.
+#summary this is an embed virtual terminal deamon library .
 #labels Phase-Design,Phase-Implementation,Phase-QA
 
 = Introduction =
 
-Add your content here.
+when we develop a deamon system , we  often  a  user interface t o
+
+monitor it or to control .  libevtd  is a librrary , whiich  acann bei
+
+easyly integrated in other deamon system . you can access  you r deamon
+
+system through telnet .
 
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
