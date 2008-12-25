@@ -5,7 +5,7 @@
 
 when we develop a deamon system , we  often  a  user interface t o
 
-monitor it or to control .  libevtd  is a librrary , whiich  acann bei
+monitor it or to control .  libevtd  is a library , which  can bei
 
 easyly integrated in other deamon system . you can access  you r deamon
 
