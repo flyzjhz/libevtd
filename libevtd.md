@@ -1,0 +1,14 @@
+# Introduction #
+
+when we develop a deamon system , we  often need a  user interface to
+
+monitor it or to control .  libevtd  is a library , which  can bei
+
+easyly integrated in other deamon system . you can access  your deamon
+
+system through telnet .
+
+当我们开发一个后台服务系统时，需要有一个用户接口来监控或者控制他。libevtd就是这样的一个库，他能够很容易地被集成到其他后台服务系统中，然后你就可以通过telnet来和你的后台服务系统进行交互。
+
+
+# Details #
